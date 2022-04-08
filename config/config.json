@@ -1,14 +1,13 @@
 {
-  "user": "instagramer",
-  "profile": "https://instagram.com/benmmonster",
+  "user": "Koray Sels",
+  "profile": "https://www.instagram.com/_krocky",
   "symbol": "@",
-  "name": "Proud Ulink User",
-  "photo": "https://cdn.glitch.com/35409746-8e4a-406e-ac47-16c4db92cad8%2F10x100profile.jpeg",
+  "name": "Koray Sels",
+  "photo": "https://media-exp1.licdn.com/dms/image/C4D03AQGHrltVdzoL5w/profile-displayphoto-shrink_400_400/0/1649426526984?e=1654732800&v=beta&t=qmrvntBr0JUDw4gZgxXpio_ApvrJ6taJu676TNnTjjM",
   "img_margin": "0",
-  "display":"Proud Ulink User",
-  
+  "display":"",
   "links":[
-    {"id":"0","title":"LINK 1!","url":"https://example.com"},
-    {"id":"2","title":"LINK 2","url":"https://example.com"}
+    {"id":"0","title":"instagram","url":"https://www.instagram.com/_krocky"},
+    {"id":"2","title":"LinkedIn","url":"https://www.linkedin.com/in/koraysels/"}
   ]
 }

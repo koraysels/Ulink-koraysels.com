@@ -3,17 +3,5 @@
   "space": "fa-fw",
   "color":"#1A4EB4",
   "icons": [
-    {
-      "fa": "fas fa-pen",
-      "url": "/config/icon.json"
-    },
-    {
-      "fa": "fas fa-icons",
-      "url": "/config/icon.json"
-    },
-    {
-      "fa": "fab fa-github",
-      "url": "https://github.com/Benja-media/Ulink"
-    }
   ]
 }
